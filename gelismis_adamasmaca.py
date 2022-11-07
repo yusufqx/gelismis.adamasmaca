@@ -1,5 +1,6 @@
 import random
 import time
+print("kuş kedi köpek balık yarasa ayı arı kaplumbağa maymun\n arasından tahmin yapınız")
 kelimeler=random.choice(["kuş","kedi","köpek","balık","yarasa","ayı","arı","kaplumbağa","maymun"])
 hak=5
 
